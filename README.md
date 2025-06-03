@@ -6,7 +6,7 @@ This is a test automation project for the website [qatest-dev.indvp.com](https:/
 - Selenium WebDriver
 - JUnit 5
 - Page Object Model (POM)
-- 
+
 ---
 
 ## ✅ What This Project Covers
