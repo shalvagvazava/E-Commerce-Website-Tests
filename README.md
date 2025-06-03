@@ -62,7 +62,7 @@ The account used in TC_008 for duplicate registration:
 Email: gvazava.shalva5@gmail.com
 Password: Any dummy value
 
-Shalva Gvazava
+Shalva Gvazava\
 QA Engineer & Automation Tester\
 📍 Georgia, Tbilisi\
 🔗 LinkedIn 
